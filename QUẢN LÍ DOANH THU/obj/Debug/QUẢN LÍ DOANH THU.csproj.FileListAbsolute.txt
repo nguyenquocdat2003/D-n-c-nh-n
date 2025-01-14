@@ -1,0 +1,12 @@
+D:\ĐỒ ÁN CÁ NHÂN\QUAN_LI_DOANH_THU\QUẢN LÍ DOANH THU\bin\Debug\Database1.mdf
+D:\ĐỒ ÁN CÁ NHÂN\QUAN_LI_DOANH_THU\QUẢN LÍ DOANH THU\bin\Debug\Database1_log.ldf
+D:\ĐỒ ÁN CÁ NHÂN\QUAN_LI_DOANH_THU\QUẢN LÍ DOANH THU\bin\Debug\QUẢN LÍ DOANH THU.exe.config
+D:\ĐỒ ÁN CÁ NHÂN\QUAN_LI_DOANH_THU\QUẢN LÍ DOANH THU\bin\Debug\QUẢN LÍ DOANH THU.exe
+D:\ĐỒ ÁN CÁ NHÂN\QUAN_LI_DOANH_THU\QUẢN LÍ DOANH THU\bin\Debug\QUẢN LÍ DOANH THU.pdb
+D:\ĐỒ ÁN CÁ NHÂN\QUAN_LI_DOANH_THU\QUẢN LÍ DOANH THU\obj\Debug\QUẢN_LÍ_DOANH_THU.Form1.resources
+D:\ĐỒ ÁN CÁ NHÂN\QUAN_LI_DOANH_THU\QUẢN LÍ DOANH THU\obj\Debug\QUẢN_LÍ_DOANH_THU.Properties.Resources.resources
+D:\ĐỒ ÁN CÁ NHÂN\QUAN_LI_DOANH_THU\QUẢN LÍ DOANH THU\obj\Debug\QUẢN LÍ DOANH THU.csproj.GenerateResource.cache
+D:\ĐỒ ÁN CÁ NHÂN\QUAN_LI_DOANH_THU\QUẢN LÍ DOANH THU\obj\Debug\QUẢN LÍ DOANH THU.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN CÁ NHÂN\QUAN_LI_DOANH_THU\QUẢN LÍ DOANH THU\obj\Debug\QUẢN LÍ DOANH THU.exe
+D:\ĐỒ ÁN CÁ NHÂN\QUAN_LI_DOANH_THU\QUẢN LÍ DOANH THU\obj\Debug\QUẢN LÍ DOANH THU.pdb
+D:\ĐỒ ÁN CÁ NHÂN\QUAN_LI_DOANH_THU\QUẢN LÍ DOANH THU\obj\Debug\QUẢN LÍ DOANH THU.csproj.AssemblyReference.cache
